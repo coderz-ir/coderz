@@ -2,8 +2,11 @@
 layout: default
 disqus: false
 archive: true
+author: dariubs
 ---
 
+
+{% assign author = site.authors[page.author] %}
 <article class="post">
     <header>
         <h1>{{ page.title }}</h1>
@@ -17,7 +20,7 @@ archive: true
     <a href="http://twitter.com/{{ site.authorTwitter }}">
         <img class="avatar" src="/assets/images/avatar.png">
         <div>
-            <span class="dark">{{ site.author }}</span>
+            <span class="dark">{{ author.name }}</span>
             <span>{{ site.description }}</span>
         </div>
     </a>

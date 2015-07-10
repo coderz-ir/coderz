@@ -15,8 +15,6 @@ disqus_shortname: 'coderz'
 
 # Details for the RSS feed generator
 url:            'http://feed.coderz.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 
@@ -33,3 +31,19 @@ defaults:
             type: posts
         values:
             layout: post
+
+authors:
+    saeiddrv:
+        name: سعید درویشی
+        email: saeiddq@gmail.com
+        twitter: saeiddrv
+    sajad:
+        name: سجاد شکری
+        email: sajad@shokri.net
+        blog : http://idot.ir
+        twitter: sajadshokri
+    dariubs:
+        name: داریوش عباسی
+        email: poshtehani@gmail.com
+        blog: https://dariubs.github.io
+        twitter: dariubs
