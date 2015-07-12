@@ -5,7 +5,13 @@
             <a href='{{ site.baseurl }}about'>درباره ما </a>
         {% endif %}
     {% endif %}
-    <a href='{{ site.baseurl }}python'>پایتون</a>
+
+    {% if page.url != "/python/" %}
+        {% if site.aboutPage %}
+            <a href='{{ site.baseurl }}python'>پایتون</a>
+        {% endif %}
+    {% endif %}
+    
     {% if page.url != "/index.html" %}
         <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
     {% endif %}    

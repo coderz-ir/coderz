@@ -41,7 +41,7 @@ author: dariubs
 <!-- Archive post list -->
 {% if page.archive %}
     <ul id="post-list" class="archive readmore">
-        <h3>بیشتر بخوانید</h3>
+        <h3>نوشته‌های دیگر</h3>
         {% for post in site.posts %}
             <li>
                 <a href="{{ post.url }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
