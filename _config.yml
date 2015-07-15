@@ -3,6 +3,7 @@ description: گاه‌نوشتی برای برنامه نویسان
 meta_description: "کدرز"
 
 aboutPage: true
+pythonPage: true
 
 markdown: redcarpet
 highlighter: pygments
