@@ -648,3 +648,5 @@ h2.month {
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
 }
+
+p {text-align: justify}
