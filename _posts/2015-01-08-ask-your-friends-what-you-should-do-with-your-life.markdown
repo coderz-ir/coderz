@@ -5,7 +5,7 @@ description: در زندگی، گرفتن بعضی تصمیمات بسیار د�
 author: dariubs
 ---
 
-![ask-your-friends-what-you-should-do-with-your-life]({{ site.baseurl }}assets/img/ask-your-friend.jpg)
+![ask-your-friends-what-you-should-do-with-your-life]({{ site.baseurl }}assets/img/general/ask-your-friend.jpg)
 
 در زندگی، گرفتن بعضی تصمیمات بسیار دشوار است. تصمیماتی مانند اینکه “میخواهید در زندگی خود چه کار کنید؟”.
 

@@ -5,7 +5,7 @@ description: نگران این که قدمتان چقدر کوچک است نبا
 author: sajad
 ---
 
-![how-to-keep-pushing-towards-your-goals-when-you-feel-overwhelmed]({{ site.baseurl }}assets/img/keep-pushing.jpg)
+![how-to-keep-pushing-towards-your-goals-when-you-feel-overwhelmed]({{ site.baseurl }}assets/img/general/keep-pushing.jpg)
 
 جان با عجله از محل کارش خارج و ساعت شش و چهل دقیقه سوار اتومبیلش می‌شود. نفس نفس می‌زند همان طور که تمام روز نفس نفس می‌زد.
 
