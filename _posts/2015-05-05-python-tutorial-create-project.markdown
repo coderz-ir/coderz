@@ -7,7 +7,7 @@ author: saeiddrv
 
 درس سوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-create-project]({{ site.baseurl }}assets/img/python-tutorial-lesson03-cover.jpg)
+![python-tutorial-create-project]({{ site.baseurl }}assets/img/python/python-tutorial-lesson03-cover.jpg)
 
 این درس به چگونگی ایجاد پروژه‌‌های برنامه‌نویسی پایتون و اجرای آن‌ها اختصاص یافته است. درس با بیان تعاریف و رسم ساختار معمول یک پروژه شروع و اشاره‌ای نیز به ساختار پروژه‌های قابل انتشار در PyPI می‌شود.
 

@@ -7,7 +7,7 @@ author: saeiddrv
 
 درس چهارم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-interactive-mode]({{ site.baseurl }}assets/img/python-tutorial-lesson04-cover.png)
+![python-tutorial-interactive-mode]({{ site.baseurl }}assets/img/python/python-tutorial-lesson04-cover.png)
 
 در این درس به توضیح حالت تعاملی پایتون می‌پردازیم؛ اینکه چگونه وارد یا خارج شویم، کد بنویسیم یا در مورد چیزی در این زبان راهنمایی بگیریم.
 

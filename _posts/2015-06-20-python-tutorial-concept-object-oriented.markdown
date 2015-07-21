@@ -7,7 +7,7 @@ author: saeiddrv
 
 درس پنجم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-concept-object-oriented]({{ site.baseurl }}assets/img/python-tutorial-lesson05-cover.png)
+![python-tutorial-concept-object-oriented]({{ site.baseurl }}assets/img/python/python-tutorial-lesson05-cover.png)
 
 این درس به توضیح مفاهیم پایه «برنامه‌نویسی شی‌گرا» اختصاص یافته است و آخرین درس از سطح‌بندی «پایه» در این کتاب می‌باشد. هدف از این درس آشنایی خوانندگان با مفاهیم عمومی شی‌گرایی بوده و نه آموزش آن؛ جزییات بیشتر از برنامه‌نویسی شی‌گرا به همراه آموزش پیاده‌سازی مفاهیم آن در زبان پایتون توسط درس‌هایی دیگر بررسی خواهد شد. در این درس همچنین به ساختار اشیا و کلاس‌ها در زبان پایتون پرداخته شده است که پیش‌نیاز دروس آتی خواهد بود.
 

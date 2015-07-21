@@ -7,7 +7,7 @@ author: saeiddrv
 
 درس ششم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-syntax]({{ site.baseurl }}assets/img/python-tutorial-lesson06-cover.png)
+![python-tutorial-syntax]({{ site.baseurl }}assets/img/python/python-tutorial-lesson06-cover.png)
 
 در این درس به معرفی اجزای پایه در برنامه‌نویسی پایتون پرداخته شده و اینکه چه هستند یا چه گرامری دارند یا چه کاری انجام می‌دهند یا... مورد بررسی قرار گرفته است.
 
