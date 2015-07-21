@@ -3,16 +3,19 @@ title: پایتون
 permalink: python/
 profile: true
 ---
-مجموعه‌ آموزش زبان برنامه‌نویسی پایتون
+کتاب آزاد آموزش زبان برنامه‌نویسی پایتون
 
 \[در حال تکمیل…\]
 
 این کتاب تلاشی است برای آموزش زبان برنامه‌نویسی پایتون (Python) بر پایه‌ پیاده‌سازی استاندارد آن (CPython)، به شکلی کامل و ساده که بتواند هر دو شاخه از پایتون (نسخه‌های ۳x و ۲x) را البته با محوریت نسخه ۳x پوشش دهد و همچنین برای افرادی که تاکنون سابقه‌ برنامه‌نویسی نداشته‌اند نیز کاربردی و مفید باشد. یادگیری پایتون نیازی به پیش‌زمینه برنامه‌نویسی ندارد و تنها پیش‌نیاز آن علاقه خوانندگان به فن برنامه‌نویسی است. منبع اصلی در تهیه این کتاب، اسناد پایتون است ولی کتاب‌های خوب پایین نیز در تهیه‌ این آموزش تاثیرگذار بوده‌اند.
 
 
-1. Learning Python, 5th Edition – Mark Lutz
-2. Core Python Applications Programming, 3rd Edition – Wesley J. Chun
-3. Python Essential Reference, 4th Edition – David M. Beazley
+<ol style="direction:ltr">
+<li>Learning Python, 5th Edition – Mark Lutz</li>
+<li>Core Python Applications Programming, 3rd Edition – Wesley J. Chun</li>
+<li>Python Essential Reference, 4th Edition – David M. Beazley</li>
+</ol>
+
 
 ---
 سطح: پایه
@@ -24,9 +27,9 @@ profile: true
 * درس ۰۵ – [مفهوم شی گرایی][5]
 
 ---
-سطح: ابتدایی
+سطح: مقدماتی
 ---
-* درس ۰۶ – سینتکس
+* درس ۰۶ – [سینتکس][5]
 
 ---
 سطح: متوسط
@@ -42,5 +45,6 @@ profile: true
 [3]: http://coderz.ir/python-tutorial-create-project/
 [4]: http://coderz.ir/python-tutorial-interactive-mode/
 [5]: http://coderz.ir/python-tutorial-concept-object-oriented/
+[5]: http://coderz.ir/python-tutorial-syntax/
 
 {% include footer.html %}
