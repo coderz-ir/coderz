@@ -5,6 +5,7 @@ meta_description: "کدرز"
 aboutPage: true
 pythonPage: true
 
+
 markdown: redcarpet
 highlighter: pygments
 
@@ -15,7 +16,7 @@ google_analytics: 'UA-XXXXXXXX-X'
 disqus_shortname: 'coderz'
 
 # Details for the RSS feed generator
-url:            'http://feed.coderz.com'
+url:            'http://feed.coderz.ir'
 
 permalink:       /:year/:title/
 
