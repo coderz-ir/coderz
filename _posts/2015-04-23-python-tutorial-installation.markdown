@@ -7,6 +7,7 @@ author: saeiddrv
 
 درس دوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
+![python-tutorial-installation]({{ site.baseurl }}assets/img/python-tutorial-lesson02-cover.jpg)
 
 در این درس به چگونگی نصب و راه‌اندازی پایتون در دو سیستم عامل ویندوز و گنولینوکس پرداخته شده است.
 
