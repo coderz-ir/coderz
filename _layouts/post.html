@@ -9,7 +9,13 @@ archive: true
 <article class="post">
     <header>
         <h1>{{ page.title }}</h1>
-        <h2 class="headline">{{ page.date | date:"%B %-d, %Y" }}</h2>
+        <h2 class="headline">
+            <script>
+                moment.loadPersian(); 
+                var full_date = moment('{{ page.date }}', 'YYYY-M-D').format('dddd, jD jMMMM jYYYY'); 
+                document.write(full_date);
+            </script>
+        </h2>
     </header>
     <section id="post-body">
         {{content}}
@@ -43,7 +49,14 @@ archive: true
         <h3>نوشته‌های دیگر</h3>
         {% for post in site.posts %}
             <li>
-                <a href="{{ post.url }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
+                <a href="{{ post.url }}">{{ post.title }}
+                    <aside class="dates">
+                        <script>
+                             var date = moment('{{ post.date }}', 'YYYY-M-D').format('jD jMMMM');
+                             document.write(date);
+                         </script>
+                     </aside>
+                </a>
             </li>
         {% endfor %}
     </ul>
