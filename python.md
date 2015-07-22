@@ -1,5 +1,5 @@
 ---
-title: پایتون
+title: آموزش پایتون
 permalink: python/
 profile: true
 ---
