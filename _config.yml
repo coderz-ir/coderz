@@ -11,8 +11,8 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://dev.coderz.ir'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://www.coderz.ir'
+google_analytics: 'UA-61670451-1'
 disqus_shortname: 'coderz'
 
 # Details for the RSS feed generator
