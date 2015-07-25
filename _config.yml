@@ -37,15 +37,15 @@ defaults:
 authors:
     saeiddrv:
         name: سعید درویشی
-        email: saeiddq@gmail.com
+        email_hash: d4b6c032dfec486c1ee33ebfb69db250
         twitter: saeiddrv
     sajad:
         name: سجاد شکری
-        email: sajad@shokri.net
+        email_hash: 1f87b1789e72b1b2e317eb066ef3dec7
         blog : http://idot.ir
         twitter: sajadshokri
     dariubs:
         name: داریوش عباسی
-        email: poshtehani@gmail.com
+        email_hash: 5860f6ae31ba8a90320c31b8d2e69d05
         blog: https://dariubs.github.io
         twitter: dariubs
