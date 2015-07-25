@@ -11,8 +11,8 @@ archive: true
         <h1>{{ page.title }}</h1>
         <h2 class="headline">
             <script>
-                moment.loadPersian(); 
-                var full_date = moment('{{ page.date }}', 'YYYY-M-D').format('dddd, jD jMMMM jYYYY'); 
+                moment.loadPersian();
+                var full_date = moment('{{ page.date }}', 'YYYY-M-D').format('dddd, jD jMMMM jYYYY');
                 document.write(full_date);
             </script>
         </h2>
@@ -26,7 +26,7 @@ archive: true
         <img class="avatar" src="http://www.gravatar.com/avatar/{{author.email_hash}}">
         <div>
             <span class="dark">{{ author.name }}</span>
-            <span>{{ site.description }}</span>
+            <span>{{ author.description }}</span>
         </div>
     </a>
 
