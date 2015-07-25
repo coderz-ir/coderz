@@ -1,3 +1,24 @@
 <footer id="footer">
-    <p class="small">© Copyright {{ site.time | date: '%Y' }} {{ site.author }}</p>
+<div style="right:0">
+    <p class="small">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"  target="_blank" style="width: 100px;">
+            <img alt="Creative Commons License" style="border-width:0;margin-bottom: 3px;width: 100px;" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" />
+        </a>
+        <span style="display:inline-block;vertical-align:top;height:35px;margin-top:-3px" >منتشر شده با پروانه CC BY-NC-SA <br>
+                               ۱۳۹۳ - 
+            <script>
+                moment.loadPersian();
+                var date = moment().format('jYYYY');
+                document.write(date);
+            </script>
+        </span>
+    </p>
+</div>
+
+<div style="left:0">
+    <p class="small" style="font-size:12px;">
+        <span style="margin-top:-3px" >نوشته‌‌های مربوط به نویسنده‌های خارج از این وبگاه، با شرایط نویسنده اصلی قابل استفاده است.
+        </span>
+    </p>
+</div>
 </footer>
