@@ -1,18 +1,75 @@
+<script>
+    $(document).ready(function() {
+
+		$("#pull").click(function(e) {
+			e.preventDefault();
+			$("nav.main-nav ul").toggle();
+            $("nav.main-nav #pull").toggleClass("pullone pulltwo");
+            logo();
+		});
+
+		$(window).resize(function(){
+    		if($(window).width() > 480 && $('nav.main-nav ul').is(':hidden')) {
+    			$('nav.main-nav ul').removeAttr('style');
+    		}
+            logo();
+		});
+
+
+        $(window).scroll(function () {
+            if($(window).scrollTop() < 180){
+                $("#logo").hide();  
+            }
+            else{
+                $("#logo").show();
+            }
+            logo();
+         });
+    });
+ 
+    function logo(){
+        if ($(window).width() < 480 && $("nav.main-nav ul").is(":visible")){
+            $("#logo").css("top", $("nav.main-nav ul").height() + 25);
+        }
+        else{
+            $("#logo").css("top", 5);
+        }
+    }
+</script>
+
 <nav class="main-nav">
-    <a class="cta" href="{{ site.baseurl }}feed.xml">اشتراک</a>
+<ul>
+    <li>
+        <a class="cta" href="{{ site.baseurl }}feed.xml">اشتراک</a>
+    </li>
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
-            <a>درباره ما </a>
+            <li>
+                <a>درباره ما </a>
+            </li>
         {% endif %}
     {% endif %}
 
     {% if page.url != "/python/" %}
         {% if site.pythonPage %}
-            <a href='{{ site.baseurl }}python'>آموزش پایتون</a>
+            <li>
+                <a href='{{ site.baseurl }}python'>آموزش پایتون</a>
+            </li>
         {% endif %}
     {% endif %}
 
     {% if page.url != "/index.html" %}
-        <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
+        <li>
+            <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
+        </li>
     {% endif %}
+</ul>
+    <a href="#" id="pull" class="pulltwo"><img src="/assets/images/nav-icon.png" /></a>
 </nav>
+<div id="logo">
+    <a href='{{ site.baseurl }}'>
+        <span style="text-align:center"><img src="/assets/images/avatar.png" style="height:26px;width:55px"/></span>
+        <span style="font-size:12px">{{ site.description }}</span>
+    </a>
+</div>
+

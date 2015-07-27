@@ -113,15 +113,24 @@ h2 {
 
 nav.main-nav {
 	padding: 20px 20px 0;
-
-	/*max-width: 600px;*/
-	/*width:100%;*/
-	background: #fff;
-	/*background: rgba(255,255,255,.90);*/
+	width:100%;
+    min-height:58px;
+	background: #FAFAFA;
 	margin: 0 auto;
 	text-align: right;
-	/*position: fixed;*/
+	position: fixed;
 	z-index: 100;
+    border-bottom: 1px #F5F5F5 solid;
+    box-shadow: 0 0px 1px rgba(0,0,0,0.25);
+}
+
+nav.main-nav ul {
+	padding: 0;
+	margin: 0 auto;
+}
+nav.main-nav li {
+	display: inline;
+    list-style-type:none;
 }
 
 nav.main-nav a {
@@ -139,6 +148,68 @@ nav.main-nav a.cta {
 	background: #5badf0;
 	color: #fff;
 	margin-left: 12px;
+}
+nav a#pull {
+	display: none;
+}
+
+
+@media only screen and (max-width : 480px) {
+	nav.main-nav ul {
+		display: none;
+	}
+    nav.main-nav li {
+	    display: block;
+        width: 100%;
+        text-align: right;
+        padding: 5px 0;
+        border-bottom: 1px #EEEEEE solid;
+    }
+	nav.main-nav #pull {
+		display: block;
+		width: 100%;
+		position: relative;
+	}
+    nav.main-nav a {
+	    color: #5badf0;
+	    font-size: 13px;
+	    line-height: 1.35;
+	    border-radius: 3px;
+    }
+    nav.main-nav a.cta {
+	    background: transparent;
+	    color: #5badf0;
+        margin-left: auto;
+    }
+	nav.main-nav #pull img{
+		width: 20px;
+		height: 20px;
+		display: inline-block;
+	}
+}
+.pullone{
+	    top: 8px !important;
+	    padding: 8px 0 20px 12px !important;
+}
+.pulltwo{
+	    top: 0 !important;
+	    padding: 0 !important;
+}
+
+#logo{
+    z-index:999;
+    position: fixed;
+    left:20px;
+    top: 5px;
+    display: none;
+    webkit-transition:all 0.1s ease;
+    -moz-transition:all 0.1s ease;
+    -o-transition:all 0.1s ease;
+    -ms-transition:all 0.1s ease;
+    transition:all 0.1s ease
+}
+#logo span{
+    display: block;
 }
 
 #wrapper {
@@ -639,7 +710,7 @@ h2.month {
 @media screen and (max-width: 540px) {
 	#wrapper { padding:20px 20px 20px 20px;}
 	#header { margin-bottom: 60px; border-bottom: 1px solid #eee; }
-	.post { margin: 40px 0; }
+	.post { margin: 80px 0; }
 	#footer { margin-top: 60px; }
 
 	#post-list, #archive-list { margin-top: 0; }
