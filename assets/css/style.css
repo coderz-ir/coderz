@@ -52,13 +52,14 @@ margin-bottom: 20px;
 }
 
 /* Base */
-html, body { height: 100%; }
+html, body { height: 100%;}
 
 body {
 	font:16px/1 'Droid Arabic Naskh', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 h1 {
