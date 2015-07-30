@@ -161,8 +161,11 @@ nav a#pull:focus {
     outline: 0;
 }
 
+#scrolltop{
+    cursor: pointer;
+}
 
-@media only screen and (max-width : 480px) {
+@media only screen and (max-width : 768px) {
 	nav.main-nav ul {
 		display: none;
 	}
@@ -181,9 +184,8 @@ nav a#pull:focus {
     nav.main-nav a {
 	    color: #5badf0;
 	    font-size: 13px;
-	    line-height: 1.35;:focus {
-    outline: 0;
-}
+	    line-height: 1.35;
+        padding: 0;
 	    border-radius: 3px;
     }
     nav.main-nav a.cta {

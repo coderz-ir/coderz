@@ -9,7 +9,7 @@
 		});
 
 		$(window).resize(function(){
-    		if($(window).width() > 480 && $('nav.main-nav ul').is(':hidden')) {
+    		if($(window).width() > 768 && $('nav.main-nav ul').is(':hidden')) {
     			$('nav.main-nav ul').removeAttr('style');
     		}
             logo();
@@ -17,7 +17,7 @@
 
 
         $(window).scroll(function () {
-            if($(window).scrollTop() < 180){
+            if($(window).scrollTop() < 150){
                 $("#logo").hide();  
             }
             else{
@@ -25,10 +25,15 @@
             }
             logo();
          });
+
+		$("#scrolltop").click(function(e) {
+			e.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, 'fast');
+		});
     });
  
     function logo(){
-        if ($(window).width() < 480 && $("nav.main-nav ul").is(":visible")){
+        if ($(window).width() < 768 && $("nav.main-nav ul").is(":visible")){
             $("#logo").css("top", $("nav.main-nav ul").height() + 25);
         }
         else{
@@ -67,7 +72,11 @@
     <a href="#" id="pull" class="pulltwo"><img src="/assets/images/nav-icon.png" /></a>
 </nav>
 <div id="logo">
+    {% if page.url == "/index.html" %}
+    <a id="scrolltop">
+    {% else %}
     <a href='{{ site.baseurl }}'>
+    {% endif %}
         <span style="text-align:center"><img src="/assets/images/avatar.png" style="height:26px;width:55px"/></span>
         <span style="font-size:12px">{{ site.description }}</span>
     </a>
