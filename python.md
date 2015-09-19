@@ -30,7 +30,8 @@ profile: true
 سطح: مقدماتی
 ---
 * درس ۰۶ – [سینتکس][6]
-* درس ۰۷ – [انواع شی آماده در پایتون - بخش یکم][7]
+* درس ۰۷ – [انواع آماده شی در پایتون - بخش یکم][7]
+* درس ۰۸ – [انواع آماده شی در پایتون - بخش دوم][8]
 
 ---
 سطح: متوسط
@@ -48,5 +49,6 @@ profile: true
 [5]: http://coderz.ir/python-tutorial-concept-object-oriented/
 [6]: http://coderz.ir/python-tutorial-syntax/
 [7]: http://coderz.ir/python-tutorial-object-types-1/
+[8]: http://coderz.ir/python-tutorial-object-types-2/
 
 {% include footer.html %}
