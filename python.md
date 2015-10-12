@@ -32,6 +32,7 @@ profile: true
 * درس ۰۶ – [سینتکس][6]
 * درس ۰۷ – [انواع آماده شی در پایتون - بخش یکم][7]
 * درس ۰۸ – [انواع آماده شی در پایتون - بخش دوم][8]
+* درس ۰۹ – [دستورهای کنترلی][9]
 
 ---
 سطح: متوسط
@@ -50,5 +51,6 @@ profile: true
 [6]: http://coderz.ir/python-tutorial-syntax/
 [7]: http://coderz.ir/python-tutorial-object-types-1/
 [8]: http://coderz.ir/python-tutorial-object-types-2/
+[9]: http://coderz.ir/python-tutorial-control-statements/
 
 {% include footer.html %}
