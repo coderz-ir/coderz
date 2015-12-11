@@ -33,6 +33,7 @@ profile: true
 * درس ۰۷ – [انواع آماده شی در پایتون - بخش یکم][7]
 * درس ۰۸ – [انواع آماده شی در پایتون - بخش دوم][8]
 * درس ۰۹ – [دستورهای کنترلی][9]
+* درس ۱۰ – [ورودی و خروجی][10]
 
 ---
 سطح: متوسط
@@ -52,5 +53,6 @@ profile: true
 [7]: http://coderz.ir/python-tutorial-object-types-1/
 [8]: http://coderz.ir/python-tutorial-object-types-2/
 [9]: http://coderz.ir/python-tutorial-control-statements/
+[10]: http://www.coderz.ir/python-tutorial-input-output/
 
 {% include footer.html %}
