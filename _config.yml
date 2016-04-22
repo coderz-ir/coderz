@@ -5,6 +5,7 @@ meta_description: "کدرز"
 aboutPage: true
 pythonPage: true
 
+gems: [jekyll-paginate]
 
 markdown: redcarpet
 highlighter: pygments
