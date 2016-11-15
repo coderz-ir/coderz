@@ -3,6 +3,7 @@ title:  "۶ گام برای نوشتن کدهایی بهتر"
 date:   2015-04-19
 description: "روش های برای کنترل کیفیت و انسجام کدها"
 author: dariubs
+disqus: true
 ---
 
 ![6 step better code]({{ site.baseurl }}assets/img/general/coding_illustration.jpg)

@@ -3,6 +3,7 @@ title:  "میکروفریم‌ورک فلسک - معرفی"
 date:   2015-11-12
 description: آشنایی با میکروفریم‌ورک فلسک و امکانات آن
 author: dariubs
+disqus: true
 ---
 ![فلسک]({{ site.baseurl }}assets/img/general/flask.png)
 

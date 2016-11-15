@@ -3,6 +3,7 @@ title:  "نصب جاوا اوراکل روی اوبونتو با فایل"
 date:   2015-05-14 
 description: "نصب جاوا اوراکل روی سیستم عامل اوبونتو"
 author: sajad
+disqus: true
 ---
 ![java]({{ site.baseurl }}assets/img/general/java_ubuntu.png)
 

@@ -3,6 +3,7 @@ title:  "وقتی سرتان شلوغ است چگونه به راهتان ادا
 date:   2015-04-07
 description: نگران این که قدمتان چقدر کوچک است نباشید
 author: sajad
+disqus: true
 ---
 
 ![how-to-keep-pushing-towards-your-goals-when-you-feel-overwhelmed]({{ site.baseurl }}assets/img/general/keep-pushing.jpg)

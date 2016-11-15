@@ -3,6 +3,7 @@ title:  "آشنایی با پایتون"
 date:   2015-04-14
 description: درس یکم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 
 ---
 درس یکم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

@@ -3,6 +3,7 @@ title:  "ورودی و خروجی در پایتون"
 date:   2015-12-11
 description: درس دهم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس دهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

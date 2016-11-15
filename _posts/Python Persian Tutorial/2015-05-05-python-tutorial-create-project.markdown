@@ -3,6 +3,7 @@ title:  "ایجاد و اجرای پروژه پایتون"
 date:   2015-05-05
 description: درس سوم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس سوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

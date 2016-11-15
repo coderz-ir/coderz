@@ -3,6 +3,7 @@ title:  "نصب و راه‌اندازی پایتون"
 date:   2015-04-23
 description: درس دوم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس دوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

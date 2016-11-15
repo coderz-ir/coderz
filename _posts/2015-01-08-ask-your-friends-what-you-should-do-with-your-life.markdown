@@ -3,6 +3,7 @@ title:  "برای کشف راه زندگی از دوستانتان سوال کن
 date:   2015-01-08
 description: در زندگی، گرفتن بعضی تصمیمات بسیار دشوار است
 author: dariubs
+disqus: true
 ---
 
 ![ask-your-friends-what-you-should-do-with-your-life]({{ site.baseurl }}assets/img/general/ask-your-friend.jpg)

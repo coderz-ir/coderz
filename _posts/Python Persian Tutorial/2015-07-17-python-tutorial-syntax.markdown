@@ -3,6 +3,7 @@ title:  "دستور زبان پایتون"
 date:   2015-07-17
 description: درس ششم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس ششم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

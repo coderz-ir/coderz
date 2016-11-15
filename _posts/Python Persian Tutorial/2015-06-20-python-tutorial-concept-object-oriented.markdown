@@ -3,6 +3,7 @@ title:  "مفهوم شی‌گرایی در پایتون"
 date:   2015-06-20
 description: درس پنجم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس پنجم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)

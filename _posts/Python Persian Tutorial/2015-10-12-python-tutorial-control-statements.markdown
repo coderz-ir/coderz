@@ -3,6 +3,7 @@ title:  "دستورهای کنترلی پایتون"
 date:   2015-10-12
 description: درس نهم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
+disqus: true
 ---
 
 درس نهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
