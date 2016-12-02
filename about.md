@@ -4,6 +4,11 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+کدرز، گاه نوشتی متن باز برای برنامه نویسان
+
+[متن کدرز در گیتهاب](https://github.com/coderz-ir/coderz)
+
+[توسعه دهندگان](https://github.com/coderz-ir/coderz/graphs/contributors)
+
 
 {% include footer.html %}
