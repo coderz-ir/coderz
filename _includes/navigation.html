@@ -63,6 +63,14 @@
         {% endif %}
     {% endif %}
 
+    {% if page.url != "/gitbook/" %}
+        {% if site.pythonPage %}
+            <li>
+                <a href='{{ site.baseurl }}gitbook'>آموزش گیت</a>
+            </li>
+        {% endif %}
+    {% endif %}
+
     {% if page.url != "/index.html" %}
         <li>
             <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
