@@ -50,7 +50,7 @@
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
             <li>
-                <a>درباره ما </a>
+                <a href='{{ site.baseurl }}about'>درباره ما </a>
             </li>
         {% endif %}
     {% endif %}
@@ -64,17 +64,17 @@
     {% endif %}
 
     {% if page.url != "/gitbook/" %}
-        {% if site.pythonPage %}
             <li>
                 <a href='{{ site.baseurl }}gitbook'>آموزش گیت</a>
             </li>
-        {% endif %}
     {% endif %}
 
     {% if page.url != "/index.html" %}
+	{% if page.url != "/" %}
         <li>
             <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
         </li>
+	{% endif %}
     {% endif %}
 </ul>
     <a href="#" id="pull" class="pulltwo"><img src="/assets/images/nav-icon.png" /></a>
