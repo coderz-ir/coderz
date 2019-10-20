@@ -34,10 +34,14 @@ profile: true
 * درس ۰۸ – [انواع آماده شی در پایتون - بخش دوم][8]
 * درس ۰۹ – [دستورهای کنترلی][9]
 * درس ۱۰ – [ورودی و خروجی][10]
+* درس ۱۱ – [کتابخانه استاندارد - بخش یکم][11]
 
 ---
 سطح: متوسط
 ---
+* درس ۱۲ – [تابع - بخش یکم][12]
+* درس ۱۳ – [تابع - بخش یکم][13]
+
 
 
 ---
@@ -54,5 +58,8 @@ profile: true
 [8]: http://coderz.ir/python-tutorial-object-types-2/
 [9]: http://coderz.ir/python-tutorial-control-statements/
 [10]: http://www.coderz.ir/python-tutorial-input-output/
+[11]: http://www.coderz.ir/python-tutorial-library-math-os-path/
+[12]: http://www.coderz.ir/python-tutorial-function/
+[13]: http://www.coderz.ir/python-tutorial-function-decorator-generator-yield-coroutine-lambda/
 
 {% include footer.html %}
