@@ -8,20 +8,19 @@ disqus: true
 
 درس دوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-installation]({{ site.baseurl }}assets/img/python/python-tutorial-lesson02-cover.jpg)
 
 در این درس به چگونگی نصب و راه‌اندازی پایتون در دو سیستم عامل ویندوز و گنولینوکس پرداخته شده است.
 
 
-[← متن درس دوم](http://python.coderz.ir/lessons/l02.html)
+[← متن درس دوم](https://python.coderz.ir/lessons/l02.html)
 
 ---
 عناوین داخلی:
 ---
-* [دانلود](http://python.coderz.ir/lessons/l02.html#id2)
-* [نصب در ویندوز](http://python.coderz.ir/lessons/l02.html#id6)
-* [نصب در گنولینوکس](http://python.coderz.ir/lessons/l02.html#id7)
-* [سیستم مدیریت بسته](http://python.coderz.ir/lessons/l02.html#id8)
+* [دانلود](https://python.coderz.ir/lessons/l02.html#id2)
+* [نصب در ویندوز](https://python.coderz.ir/lessons/l02.html#id6)
+* [نصب در گنولینوکس](https://python.coderz.ir/lessons/l02.html#id7)
+* [سیستم مدیریت بسته](https://python.coderz.ir/lessons/l02.html#id8)
 
 ---
 

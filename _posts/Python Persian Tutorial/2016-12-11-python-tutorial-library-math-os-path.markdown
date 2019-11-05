@@ -1,7 +1,7 @@
 ---
-title:  "کتابخانه استاندارد - بخش یکم"
+title:  "کتابخانه استاندارد پایتون: math و os"
 date:   2016-12-11
-description: درس یازدهم از کتاب آموزش زبان برنامه‌نویسی پایتون.
+description: درس یازدهم از کتاب آزاد آموزش زبان برنامه نویسی پایتون.
 author: saeiddrv
 disqus: true
 ---
@@ -14,14 +14,14 @@ disqus: true
 این درس به عنوان آخرین درس از سطح مقدماتی کتاب به بررسی بخشی از امکان‌های کاربردی این کتابخانه اختصاص یافته است که البته ممکن است در طول درس‌های گذشته از آن‌ها استفاده کرده باشیم!.
 
 
-[← متن درس یازدهم](http://python.coderz.ir/lessons/l11.html)
+[← متن درس یازدهم](https://python.coderz.ir/lessons/l11.html)
 
 ---
 عناوین داخلی:
 ---
-* [math](http://python.coderz.ir/lessons/l11.html#math)
-* [os](http://python.coderz.ir/lessons/l11.html#os)
-* [os.path](http://python.coderz.ir/lessons/l11.html#os-path)
+* [math](https://python.coderz.ir/lessons/l11.html#math)
+* [os](https://python.coderz.ir/lessons/l11.html#os)
+* [os.path](https://python.coderz.ir/lessons/l11.html#os-path)
 
 
 

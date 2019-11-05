@@ -1,29 +1,27 @@
 ---
-title:  "برنامه‌نویسی تعاملی در پایتون"
+title:  "برنامه‌نویسی تعاملی با پایتون"
 date:   2015-05-29
-description: درس چهارم کتاب آموزش زبان برنامه‌نویسی پایتون.
+description: درس چهارم از کتاب آزاد آموزش زبان برنامه نویسی پایتون.
 author: saeiddrv
 disqus: true
 ---
 
 درس چهارم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-interactive-mode]({{ site.baseurl }}assets/img/python/python-tutorial-lesson04-cover.png)
-
 در این درس به توضیح حالت تعاملی پایتون می‌پردازیم؛ اینکه چگونه وارد یا خارج شویم، کد بنویسیم یا در مورد چیزی در این زبان راهنمایی بگیریم.
 
 پس از مطالعه درس پیش و دو بخش ابتدایی این درس، با اجرای اسکریپت و حالت تعاملی پایتون آشنا شده‌اید؛ بر همین اساس در بخش سوم این درس به توضیح گزینه‌های مورد کاربرد در فراخوانی مفسر پایتون می‌پردازیم که به نوعی به هر دو مبحث یاد شده مربوط می‌شوند. این درس پر از مطالبی است که در آینده سر نوبت! بررسی خواهند شد (مانند مفهوم شی) البته برای درک موضوعات، توضیح کوتاهی ارایه شده ولی بهتر است متمرکز به موضوعات اصلی خود درس باشید و زیاد درگیر آن‌ها نشوید؛ فقط به خاطر بسپارید!
 
 
-[← متن درس چهارم](http://python.coderz.ir/lessons/l04.html)
+[← متن درس چهارم](https://python.coderz.ir/lessons/l04.html)
 
 ---
 عناوین داخلی:
 ---
-* [حالت تعاملی](http://python.coderz.ir/lessons/l04.html#id2)
-* [دریافت راهنمایی](http://python.coderz.ir/lessons/l04.html#id7)
-* [گزینه‌های فراخوانی](http://python.coderz.ir/lessons/l04.html#id8)
-* [پی‌نوشت](http://python.coderz.ir/lessons/l04.html#id12)
+* [حالت تعاملی](https://python.coderz.ir/lessons/l04.html#id2)
+* [دریافت راهنمایی](https://python.coderz.ir/lessons/l04.html#id7)
+* [گزینه‌های فراخوانی](https://python.coderz.ir/lessons/l04.html#id8)
+* [پی‌نوشت](https://python.coderz.ir/lessons/l04.html#id12)
 
 ---
 

@@ -1,28 +1,27 @@
 ---
-title:  "دستورهای کنترلی پایتون"
+title:  "دستورهای کنترلی در پایتون"
 date:   2015-10-12
-description: درس نهم کتاب آموزش زبان برنامه‌نویسی پایتون.
+description: درس نهم از کتاب آزاد آموزش زبان برنامه نویسی پایتون.
 author: saeiddrv
 disqus: true
 ---
 
 درس نهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-object-types-2]({{ site.baseurl }}assets/img/python/python-tutorial-lesson09-cover.png)
 
 در حالت عادی جریان اجرای یک برنامه روند ثابتی دارد به این شکل که کدها سطر به سطر، از بالا به پایین خوانده و اجرا می‌شوند؛ دستورهای کنترلی امکانی برای کنترل یا تغییر این جریان ثابت است. با استفاده از این دستورها می‌توان برای اجرای یک بلاک شرط تعیین کرد که اگر در زمان اجرا این شرط برقرار نباشد از اجرای بلاک صرف نظر خواهد شد یا می‌توان شرایطی را به وجود آورد که اجرای یک بلاک را از میان چندین بلاک مشخص انتخاب گردد و همچنین می‌توان اجرای یک بلاک را چندین بار تکرار کرد.
 
 این درس به بررسی دستورهای کنترلی پایتون در دو بخش «انتخاب» و «تکرار» اختصاص یافته است.
 
 
-[← متن درس نهم](http://python.coderz.ir/lessons/l09.html)
+[← متن درس نهم](https://python.coderz.ir/lessons/l09.html)
 
 ---
 عناوین داخلی:
 ---
-* [دستور if](http://python.coderz.ir/lessons/l09.html#if)
-* [دستور while](http://python.coderz.ir/lessons/l09.html#while)
-* [دستور for](http://python.coderz.ir/lessons/l09.html#for)
+* [دستور if](https://python.coderz.ir/lessons/l09.html#if)
+* [دستور while](https://python.coderz.ir/lessons/l09.html#while)
+* [دستور for](https://python.coderz.ir/lessons/l09.html#for)
 
 
 ---

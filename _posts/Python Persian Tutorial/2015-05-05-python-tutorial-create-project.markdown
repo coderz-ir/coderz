@@ -1,5 +1,5 @@
 ---
-title:  "ایجاد و اجرای پروژه پایتون"
+title:  "چگونگی ایجاد و اجرای یک پروژه پایتون"
 date:   2015-05-05
 description: درس سوم کتاب آموزش زبان برنامه‌نویسی پایتون.
 author: saeiddrv
@@ -8,7 +8,6 @@ disqus: true
 
 درس سوم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
 
-![python-tutorial-create-project]({{ site.baseurl }}assets/img/python/python-tutorial-lesson03-cover.jpg)
 
 این درس به چگونگی ایجاد پروژه‌‌های برنامه‌نویسی پایتون و اجرای آن‌ها اختصاص یافته است. درس با بیان تعاریف و رسم ساختار معمول یک پروژه شروع و اشاره‌ای نیز به ساختار پروژه‌های قابل انتشار در PyPI می‌شود.
 
@@ -19,18 +18,18 @@ disqus: true
 در بخش پایانی هم به روند اجرای کد توسط مفسر پایتون و همچنین معرفی بایت‌کد توجه شده است.
 
 
-[← متن درس سوم](http://python.coderz.ir/lessons/l03.html)
+[← متن درس سوم](https://python.coderz.ir/lessons/l03.html)
 
 ---
 عناوین داخلی:
 ---
-* [ساختار پروژه](http://python.coderz.ir/lessons/l03.html#id2)
-* [ایجاد سورس کد](http://python.coderz.ir/lessons/l03.html#id6)
-* [اجرای سورس کد](http://python.coderz.ir/lessons/l03.html#id7)
-* [پشت صحنه اجرا](http://python.coderz.ir/lessons/l03.html#id8)
-* [ایجاد محیط مجازی](http://python.coderz.ir/lessons/l03.html#id9)
-    * [virtualenv](http://python.coderz.ir/lessons/l03.html#virtualenv)
-    * [pyvenv](http://python.coderz.ir/lessons/l03.html#pyvenv)
+* [ساختار پروژه](https://python.coderz.ir/lessons/l03.html#id2)
+* [ایجاد سورس کد](https://python.coderz.ir/lessons/l03.html#id6)
+* [اجرای سورس کد](https://python.coderz.ir/lessons/l03.html#id7)
+* [پشت صحنه اجرا](https://python.coderz.ir/lessons/l03.html#id8)
+* [ایجاد محیط مجازی](https://python.coderz.ir/lessons/l03.html#id9)
+    * [virtualenv](https://python.coderz.ir/lessons/l03.html#virtualenv)
+    * [pyvenv](https://python.coderz.ir/lessons/l03.html#pyvenv)
 
 ---
 

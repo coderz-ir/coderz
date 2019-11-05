@@ -1,7 +1,7 @@
 ---
-title:  "تابع - بخش یکم"
+title:  "تابع در پایتون: تعریف، ارسال و تطابق آرگومان‌ها"
 date:   2019-06-26
-description: درس دوازدهم از کتاب آموزش زبان برنامه‌نویسی پایتون.
+description: درس دوازدهم از کتاب آزاد آموزش زبان برنامه نویسی پایتون.
 author: saeiddrv
 disqus: true
 ---
@@ -12,16 +12,16 @@ disqus: true
 این درس به معرفی مفهوم تابع در زبان برنامه‌نویسی پایتون می‌پردازد.
 
 
-[← متن درس دوازدهم](http://python.coderz.ir/lessons/l12.html)
+[← متن درس دوازدهم](https://python.coderz.ir/lessons/l12.html)
 
 ---
 عناوین داخلی:
 ---
-* [مقدمه](http://python.coderz.ir/lessons/l12.html#id9)
-* [سینتکس](http://python.coderz.ir/lessons/l12.html#id4)
-* [فضاهای نام و حوزه](http://python.coderz.ir/lessons/l12.html#id5)
-* [ارسال آرگومان](http://python.coderz.ir/lessons/l12.html#id6)
-* [تطابق آرگومان‌ها](http://python.coderz.ir/lessons/l12.html#id7)
+* [مقدمه](https://python.coderz.ir/lessons/l12.html#id9)
+* [سینتکس](https://python.coderz.ir/lessons/l12.html#id4)
+* [فضاهای نام و حوزه](https://python.coderz.ir/lessons/l12.html#id5)
+* [ارسال آرگومان](https://python.coderz.ir/lessons/l12.html#id6)
+* [تطابق آرگومان‌ها](https://python.coderz.ir/lessons/l12.html#id7)
 
 
 
