@@ -50,7 +50,7 @@
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
             <li>
-                <a href='{{ site.baseurl }}about'>درباره ما </a>
+                <a href='/about'>درباره ما </a>
             </li>
         {% endif %}
     {% endif %}
@@ -58,21 +58,21 @@
     {% if page.url != "/python/" %}
         {% if site.pythonPage %}
             <li>
-                <a href='{{ site.baseurl }}python'>آموزش پایتون</a>
+                <a href='/python'>آموزش پایتون</a>
             </li>
         {% endif %}
     {% endif %}
 
     {% if page.url != "/gitbook/" %}
             <li>
-                <a href='{{ site.baseurl }}gitbook'>آموزش گیت</a>
+                <a href='/gitbook'>آموزش گیت</a>
             </li>
     {% endif %}
 
     {% if page.url != "/index.html" %}
 	{% if page.url != "/" %}
         <li>
-            <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> خانه </a>
+            <a href='/'> <span class="arrow">←</span> خانه </a>
         </li>
 	{% endif %}
     {% endif %}
