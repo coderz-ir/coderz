@@ -8,7 +8,7 @@ pythonPage: true
 gems: [jekyll-paginate]
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
