@@ -42,6 +42,7 @@ profile: true
 * درس ۱۲ – [تابع در پایتون: تعریف، ارسال و تطابق آرگومان‌ها][12]
 * درس ۱۳ – [تابع در پایتون: Coroutine ،Generator ،Decorator‌ و lambda][13]
 * درس ۱۴ – [تابع در پایتون: تابع بازگشتی و Memoization][14]
+* درس ۱۵ – [Regular Expression در پایتون - بخش ۱][15]
 
 
 
@@ -63,5 +64,6 @@ profile: true
 [12]: http://www.coderz.ir/python-tutorial-function/
 [13]: http://www.coderz.ir/python-tutorial-function-decorator-generator-yield-coroutine-lambda/
 [14]: http://www.coderz.ir/python-tutorial-recursive-memoization/
+[15]: http://www.coderz.ir/python-regular-expression/
 
 {% include footer.html %}
