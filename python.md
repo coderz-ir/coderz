@@ -44,6 +44,7 @@ profile: true
 * درس ۱۴ – [تابع در پایتون: تابع بازگشتی و Memoization][14]
 * درس ۱۵ – [Regular Expression در پایتون - بخش ۱][15]
 * درس ۱۶ – [Regular Expression در پایتون - بخش ۲][16]
+* درس ۱۷ – [شی گرایی (OOP) در پایتون: تعریف کلاس و ایجاد شی][17]
 
 
 
@@ -66,6 +67,7 @@ profile: true
 [13]: http://www.coderz.ir/python-tutorial-function-decorator-generator-yield-coroutine-lambda/
 [14]: http://www.coderz.ir/python-tutorial-recursive-memoization/
 [15]: http://www.coderz.ir/python-regular-expression/
-[15]: http://www.coderz.ir/python-regular-expression-2/
+[16]: http://www.coderz.ir/python-regular-expression-2/
+[17]: http://www.coderz.ir/python-tutorial-oop-class-and-object/
 
 {% include footer.html %}
