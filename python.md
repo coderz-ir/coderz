@@ -45,6 +45,7 @@ profile: true
 * درس ۱۵ – [Regular Expression در پایتون - بخش ۱][15]
 * درس ۱۶ – [Regular Expression در پایتون - بخش ۲][16]
 * درس ۱۷ – [شی گرایی (OOP) در پایتون: تعریف کلاس و ایجاد شی][17]
+* درس ۱۸ – [شی گرایی (OOP) در پایتون: وراثت (Inheritance) و Association][18]
 
 
 
@@ -69,5 +70,6 @@ profile: true
 [15]: http://www.coderz.ir/python-regular-expression/
 [16]: http://www.coderz.ir/python-regular-expression-2/
 [17]: http://www.coderz.ir/python-tutorial-oop-class-and-object/
+[18]: http://www.coderz.ir/python-tutorial-oop-inheritance-mro-association/
 
 {% include footer.html %}
