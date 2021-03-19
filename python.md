@@ -47,6 +47,7 @@ profile: true
 * درس ۱۷ – [شی گرایی (OOP) در پایتون: تعریف کلاس و ایجاد شی][17]
 * درس ۱۸ – [شی گرایی (OOP) در پایتون: وراثت (Inheritance) و Association][18]
 * درس ۱۹ – [شی گرایی (OOP) در پایتون: متا کلاس (Metaclass) و انتزاع (Abstraction)][19]
+* درس ۲۰ – [شی گرایی (OOP) در پایتون: Encapsulation و چندریختی (Polymorphism)][20]
 
 
 
@@ -73,5 +74,6 @@ profile: true
 [17]: http://www.coderz.ir/python-tutorial-oop-class-and-object/
 [18]: http://www.coderz.ir/python-tutorial-oop-inheritance-mro-association/
 [19]: http://www.coderz.ir/python-tutorial-oop-metaclass-abstraction/
+[20]: http://www.coderz.ir/python-tutorial-oop-encapsulation-polymorphism/
 
 {% include footer.html %}
