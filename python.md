@@ -48,6 +48,8 @@ profile: true
 * درس ۱۸ – [شی گرایی (OOP) در پایتون: وراثت (Inheritance) و Association][18]
 * درس ۱۹ – [شی گرایی (OOP) در پایتون: متا کلاس (Metaclass) و انتزاع (Abstraction)][19]
 * درس ۲۰ – [شی گرایی (OOP) در پایتون: Encapsulation و چندریختی (Polymorphism)][20]
+* درس ۲۱ – [شی گرایی (OOP) در پایتون: __Descriptors ،Decorator ،__slots و property@][21]
+* درس ۲۲ – [شی گرایی (OOP) در پایتون: Type Hinting و دیتا کلاس (Data Class)][22]
 
 
 
@@ -75,5 +77,7 @@ profile: true
 [18]: http://www.coderz.ir/python-tutorial-oop-inheritance-mro-association/
 [19]: http://www.coderz.ir/python-tutorial-oop-metaclass-abstraction/
 [20]: http://www.coderz.ir/python-tutorial-oop-encapsulation-polymorphism/
+[21]: http://www.coderz.ir/python-tutorial-oop-slots-descriptors-property/
+[22]: http://www.coderz.ir/python-tutorial-oop-type-hinting-data-class/
 
 {% include footer.html %}
