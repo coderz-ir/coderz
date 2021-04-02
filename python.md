@@ -51,6 +51,7 @@ profile: true
 * درس ۲۱ – [شی گرایی (OOP) در پایتون: __Descriptors ،Decorator ،__slots و property@][21]
 * درس ۲۲ – [شی گرایی (OOP) در پایتون: Type Hinting و دیتا کلاس (Data Class)][22]
 * درس ۲۳ – [مدیریت خطا در پایتون: Exception ،Traceback و Exception Handling][23]
+* درس ۲۴ – [مدیریت خطا در پایتون: Warning ،raise Exception و Assertion][24]
 
 
 
@@ -81,5 +82,6 @@ profile: true
 [21]: http://www.coderz.ir/python-tutorial-oop-slots-descriptors-property/
 [22]: http://www.coderz.ir/python-tutorial-oop-type-hinting-data-class/
 [23]: http://www.coderz.ir/python-tutorial-error-exception-traceback/
+[24]: http://www.coderz.ir/python-tutorial-raise-exception-warnings-assertion/
 
 {% include footer.html %}
