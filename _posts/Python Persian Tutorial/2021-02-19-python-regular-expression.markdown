@@ -1,12 +1,12 @@
 ---
-title:  "Regular Expression در پایتون - بخش ۱"
+title:  "عبارات با قاعده (Regular Expression) یا RegEx در پایتون"
 date:   2021-02-19
 description: درس پانزدهم از کتاب آزاد آموزش زبان برنامه نویسی پایتون.
 author: saeiddrv
 disqus: true
 ---
 
-درس پانزدهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
+درس پانزدهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](https://coderz.ir/python)
 
 
 عبارات با قاعده (Regular expression) یا به اختصار RegEx، رشته‌ای حاوی کاراکترهایی خاص و با معنی است که در عملیات‌هایی مانند یافتن (find)، جاگذاری (repleace) و اعتبارسنجی (validation) به شدت کاربرد پیدا کرده است. در واقع با استفاده از RegEx می‌توان یک الگو (pattern) برای جستجو در متن یا تطابق آن ایجاد کرد.
@@ -15,8 +15,6 @@ disqus: true
 
 
 [← متن درس پانزدهم](https://python.coderz.ir/lessons/l15.html)
-
-
 
 ---
 

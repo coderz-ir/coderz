@@ -6,23 +6,13 @@ author: saeiddrv
 disqus: true
 ---
 
-درس چهاردهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](http://coderz.ir/python)
+درس چهاردهم [کتاب آموزش زبان برنامه‌نویسی پایتون.](https://coderz.ir/python)
 
 
-این درس بخش پایانی از بررسی تابع در پایتون می‌باشد و موضوعات باقی‌مانده از مبحث تابع پایتون در این درس بیان می‌شود. 
+این درس بخش پایانی از بررسی تابع در پایتون می‌باشد و به شرح تابع بازگشتی (Recursive) و مفهوم Memoization در زبان برنامه‌نویسی پایتون خواهد پرداخت.
 
 
 [← متن درس چهاردهم](https://python.coderz.ir/lessons/l14.html)
-
----
-عناوین داخلی:
----
-* [تابع بازگشتی](https://python.coderz.ir/lessons/l14.html#id2)
-* [Function Attributes](https://python.coderz.ir/lessons/l14.html#function-attributes)
-* [Built-in Functions](https://python.coderz.ir/lessons/l14.html#built-in-functions)
-* [Documentation Strings](https://python.coderz.ir/lessons/l14.html#documentation-strings)
-
-
 
 ---
 

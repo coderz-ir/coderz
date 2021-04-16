@@ -55,7 +55,7 @@ margin-bottom: 20px;
 html, body { height: 100%;}
 
 body {
-	font:16px/1 'Droid Arabic Naskh', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:16px/1 Vazir, 'Droid Arabic Naskh', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
@@ -70,7 +70,7 @@ h1 {
 }
 
 h2 {
-	font: italic 19px/1.3em 'Droid Arabic Naskh', Georgia,serif;
+	font: italic 19px/1.3em Vazir, 'Droid Arabic Naskh', Georgia,serif;
 	color: #bbb;
 }
 
@@ -107,7 +107,7 @@ h2 {
 	  font-weight: 300;
 	  color: #aaa;
 	  margin-top: 10px;
-	  font-family: 'Droid Arabic Naskh', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	  font-family: Vazir, 'Droid Arabic Naskh', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
@@ -269,7 +269,7 @@ a,
 }
 
 ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+li	{ list-style-type:circle; list-style-position:inside;padding-top:8px }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
@@ -289,7 +289,7 @@ em, i { font-style: italic; }
 
 .description {
 	float: right;
-	font: italic 14px/1.4em 'Droid Arabic Naskh', Georgia,serif;
+	font: italic 14px/1.4em Vazir, 'Droid Arabic Naskh', Georgia,serif;
 	color: #aaa;
 }
 
@@ -303,7 +303,7 @@ em, i { font-style: italic; }
 }
 
 .home h2 {
-	font: italic 19px/1.3em 'Droid Arabic Naskh', Georgia,serif;
+	font: italic 19px/1.3em Vazir,'Droid Arabic Naskh', Georgia,serif;
 	color: #bbb;
 }
 
@@ -315,19 +315,19 @@ em, i { font-style: italic; }
 .post h1 {
 	margin-bottom:2 0px;
 	color: #222;
-	font: 300 32px/1.4em 'Droid Arabic Naskh', "Helvetica Neue", Helvetica,Arial,sans-serif;
+	font: 300 32px/1.4em Vazir,'Droid Arabic Naskh', "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
 .post h2 {
 	margin-bottom: 40px;
-	  font: 300 24px/1.5 'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
+	  font: 300 24px/1.5 Vazir,'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
 	  color: #111;
 }
 
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em 'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 13px/1.5em Vazir,'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
 	color: #b2b9be;
 	  font-size: 13px;
@@ -338,7 +338,7 @@ em, i { font-style: italic; }
 }
 
 #post-list h2 {
-	font: normal 17px/1.5em 'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 17px/1.5em Vazir,'Droid Arabic Naskh', "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
@@ -477,14 +477,14 @@ Post List
 #post-list a {
 	color: #333;
 	display: block;
-	font: bold 19px/1.7 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 19px/1.7 Vazir,'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
 #post-list .dates {
 	float: left;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.8 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 17px/1.8 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
@@ -656,7 +656,7 @@ h1.archive {
 
 h2.month {
 	width: 100%;
-	font: bold 13px/1 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 13px/1 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 	text-transform: uppercase;
 	margin-top: 40px;
 	margin-bottom: 10px;
@@ -670,7 +670,7 @@ h2.month {
 
 #archive-list a {
 	display: block;
-	font: bold 17px/1.7 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 17px/1.7 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #333;
 }
 
@@ -678,7 +678,7 @@ h2.month {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.7 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 17px/1.7 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
@@ -698,12 +698,12 @@ h2.month {
 
 #post-list.archive.readmore h3{
 
-	  font: 400 20px 'Droid Arabic Naskh', "Helvetica Neue", Helvetica,Arial,sans-serif;
+	  font: 400 20px Vazir, 'Droid Arabic Naskh', "Helvetica Neue", Helvetica,Arial,sans-serif;
 	  margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a{
-	font: 400 16px/1.6 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 400 16px/1.6 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #5694f1;
 }
 
@@ -712,7 +712,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates{
-	font: 300 16px/1.6 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.6 Vazir, 'Droid Arabic Naskh', "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 #sharing a.facebook {
   background: #4361b3;
