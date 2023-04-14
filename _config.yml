@@ -13,7 +13,7 @@ highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'http://www.coderz.ir'
-google_analytics: 'UA-61670451-1'
+google_analytics: 'G-25G1Z7B4EZ'
 disqus_shortname: 'coderz'
 
 # Details for the RSS feed generator
