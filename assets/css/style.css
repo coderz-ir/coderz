@@ -72,6 +72,7 @@ h1 {
 h2 {
 	font: italic 19px/1.3em Vazir, 'Droid Arabic Naskh', Georgia,serif;
 	color: #bbb;
+	margin-top:20px
 }
 
 .profile #wrapper {

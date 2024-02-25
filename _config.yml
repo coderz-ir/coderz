@@ -5,19 +5,21 @@ meta_description: "کدرز - آموزش پایتون"
 aboutPage: true
 pythonPage: true
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 highlighter: rouge
 
 paginate: 20
 baseurl: /
-domain_name: 'http://www.coderz.ir'
+domain_name: 'http://www.coderz.club'
 google_analytics: 'G-25G1Z7B4EZ'
 disqus_shortname: 'coderz'
 
 # Details for the RSS feed generator
-url:            'http://feed.coderz.ir'
+url:            'http://feed.coderz.club'
 
 permalink:       /:title/
 
@@ -40,6 +42,7 @@ authors:
         name: سعید درویش
         email_hash: d4b6c032dfec486c1ee33ebfb69db250
         description:
+        blog: https://saeiddrv.com
         twitter: saeiddrv
     sajad:
         name: سجاد شکری
